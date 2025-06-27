@@ -1,0 +1,10 @@
+VCD info: dumpfile waves/clkdiv8k.vcd opened for output.
+PASSED test case           1
+PASSED test case           2
+FAILED test case           3
+ expected =           1, actual =           0
+PASSED test case           3
+FAILED test case           3
+ expected =           1, actual =           0
+PASSED test case           4
+testbench/clkdiv8k_tb.sv:76: $finish called at 67500000 (10ns)

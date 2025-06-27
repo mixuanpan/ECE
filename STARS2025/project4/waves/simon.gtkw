@@ -1,0 +1,41 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Jun 25 21:29:29 2025
+[*]
+[dumpfile] "/home/shay/a/pan453/STARS 2025/project4/waves/simon.vcd"
+[dumpfile_mtime] "Wed Jun 25 21:29:11 2025"
+[dumpfile_size] 6543
+[savefile] "/home/shay/a/pan453/STARS 2025/project4/waves/simon.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+simon_tb.blue
+simon_tb.clk
+simon_tb.en
+simon_tb.green
+@420
+simon_tb.i
+@22
+simon_tb.in[15:0]
+simon_tb.in_out[15:0]
+@420
+simon_tb.j
+@22
+simon_tb.led_out[15:0]
+@28
+simon_tb.rst
+@22
+simon_tb.seq0[3:0]
+simon_tb.seq1[3:0]
+simon_tb.seq2[3:0]
+simon_tb.ss[63:0]
+@28
+simon_tb.start
+[pattern_trace] 1
+[pattern_trace] 0

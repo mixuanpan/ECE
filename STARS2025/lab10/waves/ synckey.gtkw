@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Fri Jun 20 19:36:31 2025
+[*]
+[dumpfile] "/home/shay/a/pan453/STARS 2025/lab10/waves/synckey.vcd"
+[dumpfile_mtime] "Fri Jun 20 19:34:47 2025"
+[dumpfile_size] 4782
+[savefile] "/home/shay/a/pan453/STARS 2025/lab10/waves/ synckey.gtkw"
+[timestart] 0
+[size] 998 579
+[pos] 331 214
+*-36.750561 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 137
+@28
+synckey_tb.clk
+synckey_tb.reset
+@22
+synckey_tb.in[19:0]
+synckey_tb.out[4:0]
+@28
+synckey_tb.strobe
+@23
+synckey_tb.exp_q[4:0]
+[pattern_trace] 1
+[pattern_trace] 0
